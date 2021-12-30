@@ -29,3 +29,10 @@ body {
     font-size: 16px;
     color: aquamarine;
 }
+
+/*FOOTER*/
+.footer_cta {
+    font-size: 21x;
+    color: grey;
+    text-align: right;
+}
